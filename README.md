@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Firdauz Tri Anggoro</h1> -->
 <h3 align="center">A passionate Python Programming From Indonesia</h3>
 
-- 🌱 I’m currently learning **BeautifulSoup, Selenium, TensorFlow**
+- 🌱 I’m currently learning **BeautifulSoup, Scrapy, Selenium, TensorFlow**
 
 - 💬 Ask me about **Web Scrapping, Machine Learning**
 
